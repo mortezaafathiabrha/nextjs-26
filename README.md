@@ -1,11 +1,11 @@
 # Next.js Hello World Project
 
-A simple Hello World Next.js application for Node.js 26.
+A simple Hello World Next.js application for Node.js 22, 24, and 26.
 
 ## Getting Started
 
 ### Prerequisites
-- Node.js 26.13.0
+- Node.js 22, 24, or 26
 
 ### Installation
 
@@ -48,4 +48,4 @@ tsconfig.json       - TypeScript configuration
 - React 19
 - TypeScript
 - Server Components (App Router)
-- Node.js 26
+- Node.js 22, 24, or 26
